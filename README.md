@@ -10,7 +10,8 @@ Let’s start with Python installation. Here is a brief guideline to install Pyt
 1) From this website (https://www.python.org/downloads/), you can download the latest Python version according to your system such as Windows, Linux/UNIX, macOS, and Other.
 2) You can install Python after the download and follow the default settings/instructions to install Python into your computer.
 3) After the installation, the IDLE shell should be ready in your system as well. You may try searching IDLE in your computer program for verifying the installation. Figure 1 shows a screenshot of how the user interface of IDLE looks like. With IDLE, you can start coding with Python!<br>
-![Figure 1. Screentshot of IDLE interface](/images/Figure 1. Screenshot of IDLE interface.png)
+ <br> <img width="355" alt="Figure 1  Screenshot of IDLE interface" src="https://github.com/user-attachments/assets/92fba48f-7d18-4bc1-8f85-f2ae62de427d">
+<br>Figure 1. Screenshot of IDLE interface.png
 
 ## Chapter 1. Data Types
 ### 1.1 Numeric
